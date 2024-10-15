@@ -10,23 +10,28 @@ Please feel free to make a PR and add anything interesting or something that was
 
 
 #### Libraries/Projects
-- GeoParquet
-- Polars
-- DuckDB
-- Lonboard
-- STAC
-- Leafmap
-- GeoArrow
-- pydeck
-- PostGIS
-- xarray
-- Datashader
+- [GeoParquet](https://geoparquet.org/)
+- [Polars](https://pola.rs/)
+- [DuckDB](https://duckdb.org/)
+- [Lonboard](https://github.com/developmentseed/lonboard)
+- [Leafmap](https://leafmap.org/)
+- [GeoArrow](https://geoarrow.org/)
+- [pydeck](https://deckgl.readthedocs.io/en/latest/)
+- [Docker](https://www.docker.com/)
+- [STAC](https://stacspec.org/en)
+- [xarray](https://docs.xarray.dev/en/stable/)
+- [Datashader](https://datashader.org/)
+- [PostGIS](https://postgis.net/)
 
 #### Platforms/Utilities
 - [Fused](https://www.fused.io/)
-- [Overture Maps]()
-- [Whereobots]()
-- [Source Cooperative]()
-- [Protomaps]()
-- [Apache Sedona]()
+- [Overture Maps](https://overturemaps.org/)
+- [Whereobots](https://wherobots.com/)
+- [Source Cooperative](https://source.coop/)
+- [Protomaps](https://protomaps.com/)
+- [Apache Sedona](https://sedona.apache.org/latest/)
 -  
+
+#### Tools/Random 
+- [VSCode Geo Data Viewer Ext.](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer)
+- [Jupinium.nvim](https://github.com/kiyoon/jupynium.nvim)
