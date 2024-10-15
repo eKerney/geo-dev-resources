@@ -2,8 +2,8 @@
 ### Latest &amp; Greatest developments in geospatial technology for Engineers and Spatial Data Scientists
 A space to collaborate on new libraries and technologies mostly related to the python geospatial ecosystem   
 Notebooks with working examples from each library or project   
-Links to Libraries, Platforms &amp; People relvant to spatial tech     
-
+Links to Libraries, Platforms &amp; People relvant to spatial tech    
+Focus on FOSS4G and Open Source, though throwing in a few proprietary examples you might find of use  
 
 This resource is open to contributions from all!   
 Please feel free to make a PR and add anything interesting or something that was missed  
