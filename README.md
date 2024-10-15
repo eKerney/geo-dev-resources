@@ -1,5 +1,8 @@
 # geo-dev-resources
 ### Latest &amp; Greatest developments in geospatial technology for Engineers and Spatial Data Scientists
+
+![GDAL](https://en.wikipedia.org/wiki/File:GDALLogoColor.svg) 
+
 A space to collaborate on new libraries and technologies mostly related to the python geospatial ecosystem   
 Notebooks with working examples from each library or project   
 Links to Libraries, Platforms &amp; People relvant to spatial tech    
