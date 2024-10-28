@@ -30,7 +30,8 @@ Please feel free to make a PR and add anything interesting or something that was
 - [xarray](https://docs.xarray.dev/en/stable/)
 - [Datashader](https://datashader.org/)
 - [PostGIS](https://postgis.net/)
-- 
+- [Pangeo](https://www.pangeo.io/)
+- [hvplot](https://github.com/holoviz/hvplot)
 #### Platforms/Utilities
 - [Fused](https://www.fused.io/)
 - [Overture Maps](https://overturemaps.org/)
